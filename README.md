@@ -1,6 +1,6 @@
-Olá, Meu Nome é Victor Anselmo, tenho 20 anos </br>
-Sou estudante de Análise e Desenvolvimento de Sistemas </br>
-Atualmente estou no 4°periodo </br>
+🙃 Olá, Meu Nome é Victor Anselmo, tenho 20 anos </br>
+🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas </br>
+📗 Atualmente estou no 4°periodo </br>
 
 
 
