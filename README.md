@@ -1,6 +1,6 @@
 ## 🙃 Olá, Meu Nome é Victor Anselmo, e tenho 20 anos. </br>
 🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas </br>
-📗 Atualmente estou no 4°periodo </br>
+📗 Atualmente estou no 5°periodo </br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
